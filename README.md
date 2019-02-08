@@ -3,7 +3,7 @@ Project from Designing Informatic Systems.
 
 We were required to make script based on classes in Python3 (Object-Oriented Programming) used for libraries management. The project was motivated by the desire to understand inheritance and relations between classes and actions.
 
-# Description
+### Description
 
 Our System keeps objects: title, copy, library, Librarian, Reader. 
 
