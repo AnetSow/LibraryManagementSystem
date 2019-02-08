@@ -6,8 +6,11 @@ We were required to make script based on classes in Python3 (Object-Oriented Pro
 # Description
 
 Our System keeps objects: title, copy, library, Librarian, Reader. 
+
 Class title hold instances of titles and the instance's attributes.
+
 Every Librarian has his own id, name, surname, titles_list. 
+
 Librarian has more authority, consequently - different avaliable actions: adding/deleting title,  add/delete copy. Reader has it's own attributes (id, name, surname, pesel) and actions: borrow and return copy.
 
 ### Requirements
